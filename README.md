@@ -1,2 +1,2 @@
-# personal-dejan
-personal site for dejan
+# personal-jovo
+personal site for jovo
